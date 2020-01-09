@@ -1,0 +1,6 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<% 
+	// 1. View.jsp에서 넘어온 글번호를 저장합니다.
+	// 2. DB접속후 
+%>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;05_Member/WebContent/js/view.js&apos; to &apos;reply.js&apos;" description="Rename resource &apos;view.js&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/js/view.js" name="reply.js" stamp="1570603036749" updateReferences="true"/>
+</session>

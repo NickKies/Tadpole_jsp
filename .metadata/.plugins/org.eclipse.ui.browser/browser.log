@@ -1,0 +1,123 @@
+
+9월 27, 2019 16:44:16.15 NEW SESSION
+9월 27, 2019 16:44:16.15 [12744:21960:0927/164416.157:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+
+9월 30, 2019 14:29:22.67 NEW SESSION
+9월 30, 2019 14:29:22.67 [12348:4008:0930/142922.670:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.152 s for first_image_paint 0.122 s
+9월 30, 2019 14:30:02.53 [12348:4008:0930/143002.536:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.153 s for first_image_paint 0.123 s
+9월 30, 2019 14:30:07.60 [12348:4008:0930/143007.602:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.153 s for first_image_paint 0.123 s
+9월 30, 2019 14:30:35.13 [12348:4008:0930/143035.134:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.153 s for first_image_paint 0.123 s
+9월 30, 2019 14:31:27.84 [12348:4008:0930/143127.840:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.153 s for first_image_paint 0.123 s
+9월 30, 2019 14:32:19.57 [12348:4008:0930/143219.577:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.153 s for first_image_paint 0.123 s
+9월 30, 2019 14:33:07.29 [12348:4008:0930/143307.292:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.153 s for first_image_paint 0.123 s
+9월 30, 2019 14:33:57.51 [12348:4008:0930/143357.511:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.153 s for first_image_paint 0.123 s
+9월 30, 2019 14:34:49.10 [12348:4008:0930/143449.108:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.153 s for first_image_paint 0.123 s
+9월 30, 2019 14:34:53.62 [12348:4008:0930/143453.625:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.153 s for first_image_paint 0.123 s
+
+10월 04, 2019 15:27:54.99 NEW SESSION
+10월 04, 2019 15:27:54.99 [8088:8556:1004/152754.977:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 04, 2019 15:32:25.59 [13812:6760:1004/153225.590:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 04, 2019 15:32:25.59 [13812:6760:1004/153225.590:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+10월 04, 2019 15:45:57.44 [16308:6276:1004/154557.440:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 04, 2019 15:54:10.56 [6064:5080:1004/155410.563:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 04, 2019 15:54:55.86 [6276:13508:1004/155455.861:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+10월 07, 2019 13:38:57.18 NEW SESSION
+10월 07, 2019 13:38:57.18 [17504:852:1007/133857.187:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 07, 2019 13:41:10.53 [1748:12560:1007/134110.537:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 07, 2019 14:54:21.69 [8632:12592:1007/145421.690:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 07, 2019 15:01:43.28 [2848:16780:1007/150143.287:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 07, 2019 15:02:15.96 [13956:9480:1007/150215.960:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+10월 08, 2019 14:26:26.09 NEW SESSION
+10월 08, 2019 14:26:26.09 [17552:1832:1008/142626.097:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 08, 2019 14:26:26.09 [17552:1832:1008/142626.097:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+10월 08, 2019 14:46:31.58 [15944:16208:1008/144631.586:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+10월 09, 2019 15:39:06.53 NEW SESSION
+10월 09, 2019 15:39:06.53 [8832:14944:1009/153906.537:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 09, 2019 16:15:16.77 [8832:14944:1009/161516.771:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+10월 09, 2019 16:15:18.25 [8832:16680:1009/161518.253:ERROR:socket_stream.cc(219)] Closing stream with result -2
+10월 09, 2019 16:15:24.23 [8832:16680:1009/161524.230:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -109
+10월 09, 2019 17:33:22.41 [8832:16680:1009/173322.415:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+10월 09, 2019 17:33:22.97 [8832:14944:1009/173322.978:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+10월 09, 2019 18:15:21.42 [12624:3312:1009/181521.428:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 09, 2019 18:15:41.40 [15364:10220:1009/181541.405:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 09, 2019 18:16:26.71 [12900:17292:1009/181626.719:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 09, 2019 18:37:23.00 [13184:6892:1009/183723.001:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 10, 2019 13:33:18.51 [17700:20156:1010/133318.516:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 10, 2019 13:58:45.81 [12308:15044:1010/135845.817:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 10, 2019 15:00:30.09 [16996:9808:1010/150030.090:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 10, 2019 15:02:20.19 [18480:6412:1010/150220.193:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 10, 2019 15:25:59.67 [7368:20464:1010/152559.675:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 10, 2019 15:37:52.84 [2732:16300:1010/153752.849:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 10, 2019 15:38:49.68 [11952:20332:1010/153849.684:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+
+10월 13, 2019 13:08:11.60 NEW SESSION
+10월 13, 2019 13:08:11.60 [17020:17096:1013/130811.602:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+10월 13, 2019 13:58:39.83 [17020:17236:1013/135839.833:ERROR:socket_stream.cc(219)] Closing stream with result -2
+10월 13, 2019 13:58:45.70 [17020:17236:1013/135845.709:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -109
+10월 13, 2019 14:55:37.31 [17020:17236:1013/145537.318:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+10월 13, 2019 14:55:37.31 [17020:17096:1013/145537.318:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+10월 13, 2019 16:20:25.20 [17020:17236:1013/162025.206:ERROR:socket_stream.cc(219)] Closing stream with result -2
+10월 13, 2019 16:20:25.36 [17020:17236:1013/162025.359:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+10월 13, 2019 16:20:25.37 [17020:17096:1013/162025.373:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+10월 13, 2019 16:50:34.71 [17020:17236:1013/165034.710:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -105
+10월 13, 2019 16:50:34.71 [17020:17096:1013/165034.710:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+10월 15, 2019 13:13:49.31 [17020:17096:1015/131349.315:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+10월 15, 2019 13:13:49.33 [17020:17236:1015/131349.331:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+10월 15, 2019 13:13:49.33 [17020:17096:1015/131349.331:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+10월 15, 2019 13:13:55.83 [17020:17236:1015/131355.839:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+10월 15, 2019 13:14:30.17 [17020:17236:1015/131430.175:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+
+10월 30, 2019 07:29:25.65 NEW SESSION
+10월 30, 2019 07:29:25.65 [3528:18188:1030/072925.639:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+
+11월 04, 2019 17:01:28.01 NEW SESSION
+11월 04, 2019 17:01:28.01 [31488:17304:1104/170127.995:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+11월 04, 2019 17:01:34.50 [31488:30712:1104/170134.505:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+11월 04, 2019 19:40:38.45 [31488:30712:1104/194038.454:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+11월 04, 2019 19:40:38.45 [31488:17304:1104/194038.454:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+11월 04, 2019 19:40:38.45 [31488:20800:1104/194038.454:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+11월 04, 2019 19:40:38.45 [31488:20800:1104/194038.454:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+11월 04, 2019 19:40:41.44 [31488:30712:1104/194041.444:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+11월 04, 2019 20:37:55.44 [31488:30712:1104/203755.442:ERROR:socket_stream.cc(218)] Closing stream with result -2
+11월 04, 2019 20:38:01.54 [31488:30712:1104/203801.547:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -109
+11월 05, 2019 07:21:44.36 [31488:30712:1105/072144.368:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+11월 05, 2019 07:21:44.38 [31488:17304:1105/072144.384:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+
+11월 06, 2019 16:29:36.60 NEW SESSION
+11월 06, 2019 16:29:36.60 [15760:8288:1106/162936.597:ERROR:socket_stream.cc(218)] Closing stream with result -2
+11월 06, 2019 16:51:49.71 [10504:5904:1106/165149.716:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -100
+
+11월 07, 2019 17:43:03.61 NEW SESSION
+11월 07, 2019 17:43:03.61 [9936:18852:1107/174303.617:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+11월 07, 2019 17:43:04.11 [9936:19016:1107/174304.118:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+11월 08, 2019 10:52:26.33 [9936:19016:1108/105226.332:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+11월 08, 2019 10:52:26.33 [9936:18852:1108/105226.332:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+11월 08, 2019 10:54:23.90 [9936:21396:1108/105423.903:ERROR:gcm_store_impl.cc(630)] LevelDB remove failed: NotFound: 
+11월 08, 2019 10:54:23.90 [9936:19016:1108/105423.903:ERROR:mcs_client.cc(530)] GCM Update failed!
+
+11월 11, 2019 10:17:40.84 NEW SESSION
+11월 11, 2019 10:17:40.84 [12552:9180:1111/101740.841:ERROR:socket_stream.cc(218)] Closing stream with result -2
+11월 11, 2019 10:17:40.85 [12552:9180:1111/101740.856:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+11월 11, 2019 10:17:43.87 [12552:9180:1111/101743.875:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+11월 11, 2019 10:17:50.38 [12552:9180:1111/101750.382:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+11월 11, 2019 10:18:14.96 [12552:9180:1111/101814.960:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -118
+11월 11, 2019 10:21:49.13 [12552:9180:1111/102149.138:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+11월 11, 2019 10:24:06.69 [14328:9340:1111/102406.699:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+11월 11, 2019 10:24:43.60 [14328:9340:1111/102443.604:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+11월 11, 2019 10:24:47.37 [14328:21488:1111/102447.370:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-105).
+11월 11, 2019 10:25:44.40 [14328:9340:1111/102544.407:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+11월 11, 2019 10:27:21.79 [14328:9340:1111/102721.796:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+11월 11, 2019 10:31:21.17 [14328:9340:1111/103121.177:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+11월 11, 2019 10:37:13.01 [14328:9340:1111/103713.016:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+11월 11, 2019 10:44:24.67 [14328:9340:1111/104424.679:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+11월 11, 2019 10:44:31.99 [14328:9340:1111/104431.997:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+11월 11, 2019 10:44:32.00 [14328:5672:1111/104432.000:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+
+11월 12, 2019 17:53:33.81 NEW SESSION
+11월 12, 2019 17:53:33.81 [1824:12440:1112/175333.812:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+11월 13, 2019 12:50:28.33 [1824:6588:1113/125028.333:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+11월 13, 2019 12:50:28.33 [1824:15536:1113/125028.333:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+11월 13, 2019 12:50:28.33 [1824:12440:1113/125028.338:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106

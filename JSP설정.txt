@@ -1,0 +1,64 @@
+JSP 세팅
+
+1. Java 다운로드 설치
+https://www.oracle.com/technetwork/java/index.html
+	1) Java SE 8 Update 221 
+	2) JDK DOWNLOAD
+	3) 라이센스 동의 후 Windows x64 다운로드
+	4) 오라클 계정 로그인 후 다운로드 시작
+	5) 설치시 변경사항 없이 Next를 눌러 설치완료
+2. 환경변수 
+	1) 제어판-시스템 및 보안-시스템-고급 시스템 설정 > 환경변수 클릭
+	* 현재 pc세팅이 잘못되어 있으므로 시스템변수에서 JAVA_HOME 삭제, path를 편집버튼 클릭 > %JAVA_HOME%\bin 를 삭제합니다!!
+	2) 시스템변수 > path를 찾아 편집버튼 클릭 > 새로만들기 > C:\Java\jdk1.8.0_201\bin (자바 설치 디렉토리 확인)
+3. 이클립스 설치
+	1) https://www.eclipse.org/ 에서 DOWNLOAD를 눌러 다운로드 및 설치
+	2) installer에서 Eclipse IDE for Enterprise Java Developers를 선택
+	3) Installation Folder는 본인의 작업폴더에 맞게 설치
+4. 톰켓 설치
+	1) http://tomcat.apache.org/ 에서 Download Tomcat 8 선택
+	2) 32-bit/64-bit Windows Service Installer 다운로드
+	3) 설치시 HostManager, Examples 체크 후 Next
+	4) 로그인 계정 설정 하지 않고 Next
+	5) 설치완료 후 http://localhost:8080/ 로 접속하여 톰켓 메인페이지가 뜨는지 확인
+	6) 서비스 - Apache Tomcat 8.5 > 서비스 상태 > 중지 버튼 클릭
+5. 이클립스 환경 설정
+	1) Window - Preferences - Server - Runtime Environments > Add 버튼 > Apache Tomcat v8.5 선택 후 Next
+	2) Browse 클릭 후 톰켓 디렉토리 선택(C:\Program Files\Apache Software Foundation\Tomcat 8.5) 후 완료
+	3) File - New - Dynamic Web Project > Project name : Member 후 완료
+	4) WebContent 에서 오른쪽 버튼 > New > JSP File > File name : test.jsp 완료
+	5) 실행 후 제대로 JSP페이지가 뜨는지 확인
+	6) Window - Preferences - General - Content Types > content types > Text 에서
+	CSS > Default encoding > UTF-8 입력 후 Update
+	HTML > Default encoding > UTF-8 입력 후 Update	
+	Java Source File > Default encoding > UTF-8 입력 후 Update	
+	JSP > Default encoding > UTF-8 입력 후 Update
+	JPS 트리를 내린 후 JSP Fragment > Default encoding > UTF-8 입력 후 Update
+	JSP 트리를 내린 후 JSP Tag Definition > Default encoding > UTF-8 입력 후 Update
+	Window - Preferences - Web - CSS Files - Encoding을 ISO 10646/Unicode(UTF-8)로 변경
+	Window - Preferences - Web - CSS Files - Encoding을 ISO 10646/Unicode(UTF-8)로 변경
+	Window - Preferences - Web - HTML Files - Encoding을 ISO 10646/Unicode(UTF-8)로 변경
+	Window - Preferences - Web - JSP Files - Encoding을 ISO 10646/Unicode(UTF-8)로 변경
+	Window - Preferences - General - Workspace > Text file encoding > Other 선택 후 UTF-8 선택
+5. Maria DB 설치
+	1) https://downloads.mariadb.org/ 에서  Download 10.4.8 Stable Now! 선택 
+	2) mariadb-10.4.8-winx64.msi 를 다운로드
+	3) Default instance properties 에서 root password를 1234, confirm 1234, Enable access from remote machines for 'root' user 체크, Use UTF8 as default server's character set을 체크
+	4) Next를 눌러 설치완료 합니다.
+	5) 시작 - MySQL Client 실행 > Enter password: 1234 입력
+	6) create database jsptest;
+	7) 시작 - HeidiSQL 실행 - 신규 클릭 >
+	사용자 : root
+	암호 : 1234
+	포트 : 3306
+	데이터베이스 : jsptest
+	열기 클릭
+	8) 도구 - 환경설정 - 단축키 - SQL - 선택실행 - 단축키 > F5를 눌러 F5키로 설정
+6. 이클립스에 mariaDB 설정(JDBC 설정)
+	1) https://downloads.mariadb.org/connector-java/ 로 접속해서 Download 2.5.0 Beta Now!로 이동
+	2) MariaDB Connector/J .jar files 를 눌러 이동, mariadb-java-client-2.5.0.jar를 다운로드
+	3) 이클립스에서 프로젝트 클릭 후 오른쪽 버튼 Properties for Member - Java Build Path - Libraires > Add External JARs 버튼 클릭 후 다운로드한 mariadb-java-client-2.5.0.jar 를 선택
+	4) Properties for Member - Deployment Assembly - Add 버튼 클릭 후 Java Build path Entries 더블클릭
+	5) mariadb-java-client-2.5.0.jar 선택 후 Finish
+
+	

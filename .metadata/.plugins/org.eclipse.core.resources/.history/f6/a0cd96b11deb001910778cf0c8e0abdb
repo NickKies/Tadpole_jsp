@@ -1,0 +1,6 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%
+	// 1. Edit.jsp에서 받아온 Data를 변수에 저장합니다
+	// 2. 변수에 저장된 데이터를 이비접속후 업데이트 합니다.
+%>
